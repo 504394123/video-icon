@@ -3,6 +3,12 @@
 "description":"个人使用", 
 "icons":
     [    
+    {"name":"谍战-2", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/谍战-2.png"},
+    {"name":"超级英雄-2", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/超级英雄-2.png"},
+    {"name":"黑帮-2", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/黑帮-2.png"},
+    {"name":"动作-2", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/动作-2.png"},
+    {"name":"战争-2", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/战争-2.png"},
+    {"name":"科幻-2", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/科幻-2.png"},
     {"name":"丧尸-1", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/丧尸-1.png"},
     {"name":"传记-1", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/传记-1.png"},
     {"name":"冒险-1", "url":"https://raw.githubusercontent.com/504394123/video-icon/refs/heads/main/icon/冒险-1.png"},
